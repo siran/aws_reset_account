@@ -1,6 +1,7 @@
 # AWS Reset Account
 
-Deletes all resources from a AWS account.
+Reset cloud resources using Python and Boto3
+
 Resources to be deleted are specified in a YAML file, like
 
 ```
@@ -17,7 +18,7 @@ Resources to be deleted are specified in a YAML file, like
 
 Clone the repo
 ```
-git clone git@github.com:siran/aws_reset_account.git
+git clone git@github.com:siran/cloud-reset.git
 ```
 
 ### Prerequisites
